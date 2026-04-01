@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Product preview card component
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
@@ -103,3 +104,7 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# Product-Review-Card-Component
+A responsive product preview card built from a Frontend Mentor challenge. Features a modern design, mobile-first layout, 50/50 desktop split, clean CSS, semantic HTML, and SEO-friendly elements like meta description, keywords, alt text, and accessible add-to-cart button.
+>>>>>>> 832f30af42cf6934ac84e4969a5d36822c4b759e
