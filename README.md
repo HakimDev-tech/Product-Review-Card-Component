@@ -12,8 +12,8 @@ A responsive **product preview card** built from a Frontend Mentor challenge. Th
 
 ## Screenshot
 
-![Product Card Screenshot - Desktop](./screenshots/Gabrielle Essence Eau De Pafum - Product Card- desktop.png)  
-![Product Card Screenshot - Mobile](./screenshots/Gabrielle Essence Eau De Pafum - Product Card- mobile.png)  
+![Product Card Screenshot - Desktop](./screenshots/Gabrielle Essence Eau De Parfum - Product Card- desktop.png)  
+![Product Card Screenshot - Mobile](./screenshots/Gabrielle Essence Eau De Parfum - Product Card- mobile.png)  
 
 ## Technologies Used
 
