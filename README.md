@@ -2,6 +2,8 @@
 
 A responsive **product preview card** built from a Frontend Mentor challenge. This project demonstrates clean HTML, organized CSS, and a mobile-first design approach with an exact 50/50 split on desktop screens.  
 
+## Demo: use the link: https://hakimdev-tech.github.io/Product-Review-Card-Component/
+
 ## Features
 
 - **Responsive Design:** Mobile-first layout that scales seamlessly to desktop.  
@@ -11,8 +13,9 @@ A responsive **product preview card** built from a Frontend Mentor challenge. Th
 - **Interactive CTA:** Add-to-cart button with hover transition and icon.  
 
 ## Screenshot
-
+### Desktop
 ![Desktop](screenshots/desktop.png)  
+### Mobile
 ![Mobile](screenshots/mobile.png)  
 
 ## Technologies Used
@@ -26,3 +29,4 @@ A responsive **product preview card** built from a Frontend Mentor challenge. Th
 1. Clone the repository:  
    ```bash
    git clone https://github.com/yourusername/product-card.git
+2. Open (index.html) in browser
